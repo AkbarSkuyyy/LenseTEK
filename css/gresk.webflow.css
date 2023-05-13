@@ -541,7 +541,7 @@ figcaption {
   display: block;
   width: 400px;
   padding: 40px;
-  background-color: #99f3fd;
+  background-color: #86b049;
   color: #fff;
 }
 
@@ -617,7 +617,7 @@ figcaption {
 }
 
 .simple-link.w--current {
-  color: #000;
+  color: #ffffff;
 }
 
 .simple-nav {
@@ -691,7 +691,7 @@ figcaption {
 
 .section.section-footer {
   padding-top: 160px;
-  background-color: #80effc;
+  background-color: #476930;
 }
 
 .section.padding-bottom-double {
