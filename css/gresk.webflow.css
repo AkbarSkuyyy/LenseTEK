@@ -454,7 +454,7 @@ figcaption {
 
 .heading-beta {
   font-family: 'Gothic A1', sans-serif;
-  color: #333;
+  color: #fffefe;
   font-size: 74px;
   line-height: 1.15;
   font-weight: 900;
@@ -541,7 +541,7 @@ figcaption {
   display: block;
   width: 400px;
   padding: 40px;
-  background-color: #99f3fd;
+  background-color: #74A12E;
   color: #fff;
 }
 
@@ -612,12 +612,12 @@ figcaption {
   padding-top: 8px;
   padding-bottom: 8px;
   border-bottom-style: none;
-  color: #333;
+  color: #ffffff;
   font-size: 18px;
 }
 
 .simple-link.w--current {
-  color: #000;
+  color: #ffffff;
 }
 
 .simple-nav {
@@ -691,7 +691,7 @@ figcaption {
 
 .section.section-footer {
   padding-top: 160px;
-  background-color: #80effc;
+  background-color: #74A12E;
 }
 
 .section.padding-bottom-double {
@@ -1041,8 +1041,8 @@ figcaption {
 }
 
 .email-address {
-  border-bottom-color: rgba(0, 0, 0, 0.33);
-  color: #333;
+  border-bottom-color: rgba(255, 255, 255, 0.33);
+  color: #ffffff;
   font-size: 23px;
   text-decoration: none;
 }
@@ -1070,9 +1070,14 @@ figcaption {
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
   border-bottom-style: solid;
-  border-bottom-color: rgba(0, 0, 0, 0.26);
-  color: #333;
+  border-bottom-color: rgba(255, 255, 255, 0.33);
+  color: #ffffff;
   text-decoration: none;
+}
+
+.foot {
+  
+  color: #ffffff;
 }
 
 .footer-menu-list {
