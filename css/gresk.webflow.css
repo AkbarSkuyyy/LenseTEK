@@ -454,7 +454,7 @@ figcaption {
 
 .heading-beta {
   font-family: 'Gothic A1', sans-serif;
-  color: #333;
+  color: #fffefe;
   font-size: 74px;
   line-height: 1.15;
   font-weight: 900;
@@ -541,7 +541,11 @@ figcaption {
   display: block;
   width: 400px;
   padding: 40px;
+<<<<<<< HEAD
   background-color: #86b049;
+=======
+  background-color: #74A12E;
+>>>>>>> cbe69b1a11d48637752dcac2ed5ae2b35e037ed1
   color: #fff;
 }
 
@@ -612,7 +616,7 @@ figcaption {
   padding-top: 8px;
   padding-bottom: 8px;
   border-bottom-style: none;
-  color: #333;
+  color: #ffffff;
   font-size: 18px;
 }
 
@@ -691,7 +695,11 @@ figcaption {
 
 .section.section-footer {
   padding-top: 160px;
+<<<<<<< HEAD
   background-color: #476930;
+=======
+  background-color: #74A12E;
+>>>>>>> cbe69b1a11d48637752dcac2ed5ae2b35e037ed1
 }
 
 .section.padding-bottom-double {
@@ -1041,8 +1049,8 @@ figcaption {
 }
 
 .email-address {
-  border-bottom-color: rgba(0, 0, 0, 0.33);
-  color: #333;
+  border-bottom-color: rgba(255, 255, 255, 0.33);
+  color: #ffffff;
   font-size: 23px;
   text-decoration: none;
 }
@@ -1070,9 +1078,14 @@ figcaption {
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
   border-bottom-style: solid;
-  border-bottom-color: rgba(0, 0, 0, 0.26);
-  color: #333;
+  border-bottom-color: rgba(255, 255, 255, 0.33);
+  color: #ffffff;
   text-decoration: none;
+}
+
+.foot {
+  
+  color: #ffffff;
 }
 
 .footer-menu-list {
