@@ -12,7 +12,7 @@
 
 body {
   font-family: 'Gothic A1', sans-serif;
-  color: #ffffff;
+  color: #2b2b2b;
   font-size: 18px;
   line-height: 1.5;
 }
@@ -151,7 +151,7 @@ figcaption {
 }
 
 .container.extended.bg-accent {
-  background-color: #f0f3f2;
+  background-color: #a0ada9;
 }
 
 .container.extended.bg-accent.padding-top {
@@ -1379,7 +1379,7 @@ figcaption {
 }
 
 .contact-field:focus {
-  border-bottom-color: #80effc;
+  border-bottom-color: #74A12E;
 }
 
 .contact-field.select-field {
@@ -2069,4 +2069,3 @@ figcaption {
     grid-column-end: span 1;
   }
 }
-
