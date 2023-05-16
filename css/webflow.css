@@ -49,11 +49,18 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+<<<<<<< Updated upstream
   background: url(metaverse-green.jpg)
+=======
+  background-color: #fff;
+>>>>>>> Stashed changes
   font-family: Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333;
+}
+.Metaverse {
+  background-image: url(images/metaverse-green.jpg);
 }
 img {
   max-width: 100%;
